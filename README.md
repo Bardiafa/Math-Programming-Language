@@ -30,5 +30,5 @@ Run the code:
 # Contributing
 If you want to contribute to the project, please feel free to create a pull request.
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
